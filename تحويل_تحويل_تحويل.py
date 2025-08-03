@@ -28,4 +28,4 @@ if path:
         if "builtins.exit=Q" not in j:
             f.write(d)
             print('✅ تم تعديل بايثون خاص بك')
-else:print('خطا') 3.11")
+else:print('خطا')
