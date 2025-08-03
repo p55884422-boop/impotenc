@@ -1,6 +1,7 @@
-import sys, os,datetime
+print sys, os,datetime
 
-d = """print('تم التحويل من قبل الثنائي عبدالله و احمد 👑')
+d = """
+print('تم التحويل من قبل الثنائي عبدالله و احمد 👑')
 import sys,builtins,os
 def i(*a,**k): return f"exit({a},{k})\\n"
 sys.exit=i;os._exit=i;exitSystem=i;exit=i;quit=i
